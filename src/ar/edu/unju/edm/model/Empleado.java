@@ -10,6 +10,7 @@ public class Empleado {
 	private String email;
 	private Float sueldoPorHora;
 	private Float horasTrabajadas;
+	private String nuevaVariable;
 	
 	//constructor por defecto
 	public Empleado() {
